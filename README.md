@@ -58,24 +58,24 @@ The machine learning and exploratory analysis were performed using Python.
 
 Key packages:
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-plotly
-folium
-pgeocode
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- plotly
+- folium
+- pgeocode
 
 
 Bayesian modelling packages:
 
-brms
-tidyverse
-bayesplot
-posterior
-tidybayes
+- brms
+- tidyverse
+- bayesplot
+- posterior
+- tidybayes
 
 # Author
 
